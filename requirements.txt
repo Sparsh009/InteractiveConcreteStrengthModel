@@ -1,0 +1,7 @@
+gradio
+interpret
+pandas
+numpy
+scikit-learn
+matplotlib
+Pillow
